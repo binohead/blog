@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Andy&#x27;s Bird Blog</title>
-    <link href="https://binohead.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://binohead.github.io/gh-pages" />
+    <link href="https://binohead.github.io/blog/feed.xml" rel="self" />
+    <link href="https://binohead.github.io/blog" />
     <updated>2023-08-07T08:21:41-03:00</updated>
     <author>
         <name>Andy</name>
     </author>
-    <id>https://binohead.github.io/gh-pages</id>
+    <id>https://binohead.github.io/blog</id>
 
     <entry>
         <title>Flat-topped Goldenrod</title>
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/flat-topped-goldenrod.html"/>
-        <id>https://binohead.github.io/gh-pages/flat-topped-goldenrod.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/flat-topped-goldenrod.html"/>
+        <id>https://binohead.github.io/blog/flat-topped-goldenrod.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/15/featured.jpg" medium="image" />
 
-        <updated>2023-08-07T08:21:41-03:00</updated>
-            <summary>
+        <updated>2023-08-07T08:20:53-03:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/15/featured.jpg" alt="" />
                     The best the app could do on other goldenrods was, well, goldenrod. But for this one, the species popped up&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/15/featured.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/15/featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p>The best the app could do on other goldenrods was, well, goldenrod. But for this one, the species popped up right away. Apparently it, along with 10 or so other species, stands out so much from *Solidago* that they were all recently split into their own genus.<br><br>It's wicked common in waste places, so is a good one to learn. It's host plant to *Coleophora intermediella*, which is one of those cool elongated moths with the long antennae that's also quite distinctive, and that I should post on later.</p>
             ]]>
         </content>
@@ -37,25 +37,25 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/confusing-fall-warblers.html"/>
-        <id>https://binohead.github.io/gh-pages/confusing-fall-warblers.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/13/featured.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/confusing-fall-warblers.html"/>
+        <id>https://binohead.github.io/blog/confusing-fall-warblers.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/13/featured.jpg" medium="image" />
             <category term="birding"/>
 
-        <updated>2023-07-17T07:31:47-03:00</updated>
-            <summary>
+        <updated>2023-07-17T07:26:56-03:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/13/featured.jpg" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/13/featured.jpg" alt="" />
                     A common misconception, which I share (until reminded by brute fact) is that August is too early for bird migration.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/13/featured.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/13/featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p>A common misconception, which I share (until reminded by brute fact) is that August is too early for bird migration. Apart from shorebirds, which crazily start in July, southward movements don't really get rolling until September.<br><br>But (and here's the brute fact) here's a Palm Warbler I saw in my patch today. It was one of my yearly reminders that I should get looking for fall migrants way earlier in August than my instincts tell me. Sure, it's possible that some of the birds I see are locally raised youngsters, like this yellow-rumped<br><br></p>
-<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/gh-pages/media/posts/13/yrwa.jpg" alt="" width="2592" height="1944" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/yrwa-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/blog/media/posts/13/yrwa.jpg" alt="" width="2592" height="1944" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/blog/media/posts/13/responsive/yrwa-xs.jpg 384w ,https://binohead.github.io/blog/media/posts/13/responsive/yrwa-sm.jpg 600w ,https://binohead.github.io/blog/media/posts/13/responsive/yrwa-md.jpg 768w ,https://binohead.github.io/blog/media/posts/13/responsive/yrwa-lg.jpg 1200w ,https://binohead.github.io/blog/media/posts/13/responsive/yrwa-xl.jpg 1600w"></figure>
 <p><br><br>or this black-throated green:<br><br></p>
-<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/gh-pages/media/posts/13/btnw.jpg" alt="" width="2592" height="1944" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/13/responsive/btnw-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/blog/media/posts/13/btnw.jpg" alt="" width="2592" height="1944" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/blog/media/posts/13/responsive/btnw-xs.jpg 384w ,https://binohead.github.io/blog/media/posts/13/responsive/btnw-sm.jpg 600w ,https://binohead.github.io/blog/media/posts/13/responsive/btnw-md.jpg 768w ,https://binohead.github.io/blog/media/posts/13/responsive/btnw-lg.jpg 1200w ,https://binohead.github.io/blog/media/posts/13/responsive/btnw-xl.jpg 1600w"></figure>
 <p><br><br>But really, it's pretty unlikely that Nashville Warbler (which I didn't get a picture of) and Palm Warbler would nest successfully in Point Pleasant Park.</p>
             ]]>
         </content>
@@ -65,22 +65,22 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/some-kind-of-holly.html"/>
-        <id>https://binohead.github.io/gh-pages/some-kind-of-holly.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/12/featured-2.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/some-kind-of-holly.html"/>
+        <id>https://binohead.github.io/blog/some-kind-of-holly.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/12/featured-2.jpg" medium="image" />
             <category term="plants"/>
             <category term="iseek"/>
 
-        <updated>2023-07-16T17:47:04-03:00</updated>
-            <summary>
+        <updated>2023-07-16T17:45:22-03:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/12/featured-2.jpg" alt="Ilex" />
+                        <img src="https://binohead.github.io/blog/media/posts/12/featured-2.jpg" alt="Ilex" />
                     Yes, I said to my companion, this is shadbush again. But no sooner had my statement passed my lips -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/12/featured-2.jpg" class="type:primaryImage" alt="Ilex" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/12/featured-2.jpg" class="type:primaryImage" alt="Ilex" /></p>
                 <p>Yes, I said to my companion, this is shadbush again.<br><br>But no sooner had my statement passed my lips - and the berry pass mine and his - than I realized something was amiss. The leaves were too spiny and rose-like, the berries too clumped.<br><br>At the same, an acrid, medicine-like taste infused both our mouths. No, definitely not the serviceberry/juneberry/shadbush/saskatoon that delighted our senses on another recent trip.<br><br>I wracked my brains for alternatives, mentally revisiting various tempting berries, like Alder Buckthorn, that had fooled me more than is seemly for a purported naturalist, especially one advising someone who's advising their toddler about what's OK to eat and what's not.<br><br>So far, I've settled on some species of *Ilex*, i.e. holly, though I'm not sure what. If it really is that, it comes by its medicinal qualities honestly. I read on wikipedia (where else?) that it's pretty caffeinated, but more interestingly, it turns out that yerba, that plant from which Argentinians make maté that the gauchos encountered by Darwin (among others) endlessly sipped, is an *Ilex* too.<br><br>Who knew? And who suspected this would all follow from one ill-advised sampling of a plant in a suburban park.</p>
             ]]>
         </content>
@@ -90,24 +90,24 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/perennial-sow-thistle.html"/>
-        <id>https://binohead.github.io/gh-pages/perennial-sow-thistle.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/perennial-sow-thistle.html"/>
+        <id>https://binohead.github.io/blog/perennial-sow-thistle.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/11/hawkweed-2.jpg" medium="image" />
             <category term="plants"/>
             <category term="iseek"/>
 
-        <updated>2023-07-16T12:20:46-03:00</updated>
-            <summary>
+        <updated>2023-07-16T12:09:29-03:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" alt="sow-thistle" />
+                        <img src="https://binohead.github.io/blog/media/posts/11/hawkweed-2.jpg" alt="sow-thistle" />
                     A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed-2.jpg" class="type:primaryImage" alt="sow-thistle" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/11/hawkweed-2.jpg" class="type:primaryImage" alt="sow-thistle" /></p>
                 <p>A random weed, growing from crevices on the Tower Road bridge across the railroad tracks, but then it's everywhere. Why would I feature it? Partly because I keep mixing up all the plants that look like that, for instance hawkweed ...</p>
-<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/gh-pages/media/posts/11/hawkweed.jpg" alt="" width="333" height="592" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-xs.jpg 384w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-sm.jpg 600w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-md.jpg 768w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-lg.jpg 1200w ,https://binohead.github.io/gh-pages/media/posts/11/responsive/hawkweed-xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://binohead.github.io/blog/media/posts/11/hawkweed.jpg" alt="" width="333" height="592" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://binohead.github.io/blog/media/posts/11/responsive/hawkweed-xs.jpg 384w ,https://binohead.github.io/blog/media/posts/11/responsive/hawkweed-sm.jpg 600w ,https://binohead.github.io/blog/media/posts/11/responsive/hawkweed-md.jpg 768w ,https://binohead.github.io/blog/media/posts/11/responsive/hawkweed-lg.jpg 1200w ,https://binohead.github.io/blog/media/posts/11/responsive/hawkweed-xl.jpg 1600w"></figure>
 <p>... many of which are edible, more (wild lettuce) or less (hawkweed?? I don't know).<br><br>But mainly, I posted it because I've always wondered about its milky sap. I see from the trusted internet that its milkiness is why the plant was fed to lactating sows, and thus the name. But I wasn't satisfied with that answer (being a seeker of the Truth and all).<br><br>I still don't have an answer, perhaps because I have the wrong question: why do sow thistles, milkweed, dandelions, etc etc all have milky sap?  Perhaps there's no answer, because they're each there for a different reason.<br><br>But they have at least some aspects in common, besides that they're white. For instance, I read that sow thistle latex was used as chewing gum, like milkweed was. Then again, I also read that it's used to cure warts, which is a new one on me.<br><br>So maybe it's a question for you readers out there. Why do all those plants have a milky sap? Oh yeah, you can't answer because I didn't code comments into this. And I haven't made this blog public anyway.<br><br>Oh well, I'll just have to keep Seeking.</p>
             ]]>
         </content>
@@ -117,22 +117,22 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/owl-power.html"/>
-        <id>https://binohead.github.io/gh-pages/owl-power.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/owl-power.html"/>
+        <id>https://binohead.github.io/blog/owl-power.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/10/featured.jpg" medium="image" />
             <category term="birds"/>
             <category term="birding"/>
 
-        <updated>2022-07-04T16:31:51-03:00</updated>
-            <summary>
+        <updated>2022-07-04T16:30:34-03:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/10/featured.jpg" alt="" />
                     Crows were making a racket in a corner of the Royal Annapolis Royal Gardens (did I get the name right?).
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/10/featured.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/10/featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p data-sourcepos="17:1-17:207">Crows were making a racket in a corner of the Royal Annapolis Royal Gardens (did I get the name right?). But what really got my attention was that it wasn't just crows, but robins, grackles, and others, too.</p>
 <p data-sourcepos="19:1-19:366">While my companions looked at the flowers (the garden has an astounding array of heritage roses, cultivars of heather, others - anyway, just plants), I hunted down what the fuss was about. I came up empty, and was about to give up, when I thought I might have seen the tell-tale tiger pattern that could be a Great-horned Owl's underside, or could be just tree bark.</p>
 <p data-sourcepos="21:1-21:490">I was glad I persisted in finding the right place to view the tree from. It was surprisingly far from the tree (had to take out a few heirloom roses along the way, but it was worth it). And, also surprising, the crows had given up by then, by which point I used to give up searching, thinking that if an owl was there, they'd persist. But I've recently found that rule doesn't hold at all; crows really are smart enough to back off if the owl hasn't moved and there's a creepy human around.</p>
@@ -145,20 +145,20 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/the-woodland-vulture.html"/>
-        <id>https://binohead.github.io/gh-pages/the-woodland-vulture.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/14/featured.jpg" medium="image" />
+        <link href="https://binohead.github.io/blog/the-woodland-vulture.html"/>
+        <id>https://binohead.github.io/blog/the-woodland-vulture.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/14/featured.jpg" medium="image" />
 
-        <updated>2023-07-17T12:29:03-03:00</updated>
-            <summary>
+        <updated>2021-12-06T12:27:00-04:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/14/featured.jpg" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/14/featured.jpg" alt="" />
                     I thought I knew the drill. It was closer to the start of my walk than I'd expected, so perhaps&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/14/featured.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/14/featured.jpg" class="type:primaryImage" alt="" /></p>
                 <p>I thought I knew the drill. It was closer to the start of my walk than I'd expected, so perhaps it was all caused by a cat hanging out near the park entrance. But a whole whack of not just crows but also jays yelling like crazy had to be checked out.<br><br>So when I did walk a bit farther into the park, toward the yelling birds, I scanned carefully for that cryptic owl or other raptor that might slip away once I got too close to it and the corvids mobbing it. That's normally quite hard to do, so I was surprised when I could clearly see everyone - and neither owl nor cat.<br><br>I gave up and moved on, but something made me take a last look that seemed to reveal a raven in the middle of it all. That was nearly the end of it, since crows often get overwraught over ravens, but wait - the raven had a more complex shape, more like two crows preening each other.<br><br>Then, like a necker cube or that rabbit/fist illusion, the two crows morphed into the hunched posture of a vulture. What a vulture was doing in the middle of the woods was my next question, but that thought only came after the awesome coolness of the moment had had its way with me.<br><br>And anyway, my next task, in truth, was to make sure it was a Turkey, and not a Black, Vulture, which'd be way rare. It didn't look like one to me, but I still got out my Sibley and pored through the marks, the most useful on a perched bird being the tail - long in the Turkey and way shorter in the Black.<br><br>The next cool birds to appear in the park were discovered by others, but this sighting tamped my jealousy of them a bit. It might not have been an eBird rarity, but it was a pretty awesome patch sighting.</p>
             ]]>
         </content>
@@ -168,20 +168,20 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/mewing-echoes-of-the-crazy-fall.html"/>
-        <id>https://binohead.github.io/gh-pages/mewing-echoes-of-the-crazy-fall.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" medium="image" />
+        <link href="https://binohead.github.io/blog/mewing-echoes-of-the-crazy-fall.html"/>
+        <id>https://binohead.github.io/blog/mewing-echoes-of-the-crazy-fall.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/9/IMG_1634.JPG" medium="image" />
 
-        <updated>2018-02-22T07:49:16-04:00</updated>
-            <summary>
+        <updated>2018-02-21T15:04:33-04:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/9/IMG_1634.JPG" alt="" />
                     There's a Gray Catbird in my local patch this winter that everybody sees except me. It's driving me nuts. But&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/9/IMG_1634.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/9/IMG_1634.JPG" class="type:primaryImage" alt="" /></p>
                 <p>There's a Gray Catbird in my local patch this winter that everybody sees except me. It's driving me nuts.</p>
 <p>But that's what catbirds do. The skulk. They lurk. Now you see them, now you don't. They live up to their name, <em>Dumetella </em>(little one of the thorny bushes).</p>
 <p>Thus they've appeared throughout the winter now and then, here and there, where they were first spotted in the fall (local readers: these include Point Pleasant Park, Conrose Park, Atlantic Theological Seminary, and lots of rose bushes in Dartmouth).</p>
@@ -200,20 +200,20 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html"/>
-        <id>https://binohead.github.io/gh-pages/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html</id>
-        <media:content url="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" medium="image" />
+        <link href="https://binohead.github.io/blog/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html"/>
+        <id>https://binohead.github.io/blog/the-red-necked-buttfoot-bird-and-who-the-hell-is-holboell.html</id>
+        <media:content url="https://binohead.github.io/blog/media/posts/8/IMG_1894.JPG" medium="image" />
 
-        <updated>2018-02-20T18:02:41-04:00</updated>
-            <summary>
+        <updated>2018-02-20T17:36:17-04:00</updated>
+            <summary type="html">
                 <![CDATA[
-                        <img src="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" alt="" />
+                        <img src="https://binohead.github.io/blog/media/posts/8/IMG_1894.JPG" alt="" />
                     The Red-necked Grebe in the photo was unusually close to shore in the harbour. Five off my patch this afternoon reminded&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://binohead.github.io/gh-pages/media/posts/8/IMG_1894.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://binohead.github.io/blog/media/posts/8/IMG_1894.JPG" class="type:primaryImage" alt="" /></p>
                 <p>The Red-necked Grebe in the photo was unusually close to shore in the harbour. Five off my patch this afternoon reminded me: my first field guides called them Holboell's Grebes.</p>
 <p>That's <a href="https://en.wikipedia.org/wiki/Carl_Peter_Holb%C3%B8ll" title="Carl Peter Holbøll">Carl Peter Holbøl</a>, who was Denmark's Royal Inspector of Colonies and Whaling back in the day (1820s). This species was one of the specimens he sent back from Greenland, and a professor named it after him. Holboell named species; Hornemann's Redpoll is a botanist he knew.</p>
 <p>Alas, Hoelboell's bird (like Hornemann's) was deemed, years later, to be a mere subspecies of Red-necked Grebe. And so the young kids don't even know Holboell's name any more. Then again, its genus is still <em>Podiceps</em>, which means "anus foot", because grebes' feet are so close to their butts. So not all is lost.</p>
@@ -225,11 +225,11 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/fifth-post.html"/>
-        <id>https://binohead.github.io/gh-pages/fifth-post.html</id>
+        <link href="https://binohead.github.io/blog/fifth-post.html"/>
+        <id>https://binohead.github.io/blog/fifth-post.html</id>
 
         <updated>2018-02-19T16:06:09-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Why not five.
                 ]]>
@@ -245,11 +245,11 @@
         <author>
             <name>Andy</name>
         </author>
-        <link href="https://binohead.github.io/gh-pages/fourth-post.html"/>
-        <id>https://binohead.github.io/gh-pages/fourth-post.html</id>
+        <link href="https://binohead.github.io/blog/fourth-post.html"/>
+        <id>https://binohead.github.io/blog/fourth-post.html</id>
 
         <updated>2018-02-19T16:05:49-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     And yet another one by himself.
                 ]]>
